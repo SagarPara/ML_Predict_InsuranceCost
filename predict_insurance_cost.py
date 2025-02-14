@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
-import joblib as joblib
+#import joblib as joblib
 
 
 insurance_df = pd.read_csv("insurance.csv")
